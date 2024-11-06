@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604008929944",
+    "project_id": "caller-eb578",
+    "storage_bucket": "caller-eb578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604008929944:android:462c23870d0bc429478eed",
+        "android_client_info": {
+          "package_name": "com.example.caller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpz75nhCU6eHuLH5GUZlxTDzWYov0CNXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
